@@ -1,7 +1,8 @@
 ### Hi there 👋 Eu sou o BrunoMendes
 
 
-- 🔭 I’m currently working  como militar da Marinha
+
+About me:
 - 🌱 I’m currently learning  HTML5/CSS3/Python3/Java/C#
 -->
 
